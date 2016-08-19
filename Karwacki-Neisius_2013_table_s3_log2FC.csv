@@ -1,4 +1,4 @@
-genes,logFC(Z6/E14Tg2a),logFC(OKO160/E14Tg2a),logFC(Z6/OctGip),logFC(OKO160/OctGip)
+gene,logFC(Z6/E14Tg2a),logFC(OKO160/E14Tg2a),logFC(Z6/OctGip),logFC(OKO160/OctGip)
 mmu-mir-21,0.0123,-0.0388,0.0068,-0.0443
 SNORD12,-0.0353,-0.0053,0.0231,0.0531
 mmu-mir-1893,0.0016,-0.0437,0.0101,-0.0352
